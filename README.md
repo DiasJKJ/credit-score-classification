@@ -1,4 +1,4 @@
-[alt text](image.png)
+![Описание картинки](assets/image.png)
 ## 📂 Project Structure
 - `DataProcessor`: Custom class for cleaning and tokenization.
 - `ClipOutliersTransformer`: Custom transformer for handling financial outliers.
